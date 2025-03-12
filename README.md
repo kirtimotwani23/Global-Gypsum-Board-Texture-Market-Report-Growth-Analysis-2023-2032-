@@ -97,7 +97,9 @@ The gypsum board texture market in South and Central America is on the rise, wit
 
 
 
+
 **Competitor Analysis**
+
 
 **Major Competitors:** 
 The Gypsum Board Texture market is competitive, with key players like Knauf, Sherwin-Williams, and National Gypsum dominating the market share. These companies have established a strong presence in various regions and are known for their quality products and customer-centric approach.
@@ -120,16 +122,23 @@ The analysis helps the reader to shape the competition within the industries and
 
 
 **Market Segmentation (by Application)**
+
 •	Residential
+
 •	Commercial
+
 •	Others
 
 
 
 **Market Segmentation (by Type)**
+
 •	Comb Texture
+
 •	Popcorn Texture
+
 •	Orange Peel Texture
+
 •	Others
 
 
