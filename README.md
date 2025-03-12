@@ -184,6 +184,7 @@ A: The global Gypsum Board Texture market size was estimated at USD 609 million 
 
 
 02. Which key companies operate in the Gypsum Board Texture Market?
+
 A: List of Major Players:
 
 - Knauf
